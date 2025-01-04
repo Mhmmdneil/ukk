@@ -29,7 +29,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">Taufik Hidayat, S.Kom.</h6>
                               <p>KK - Pengembangan Gim</p>
                           </div>
@@ -38,7 +38,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">Suminar, S.Kom, M.Kom.</h6>
                               <p>PKK</p>
                           </div>
@@ -47,7 +47,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">Hj. Sri Agustina, S.Pd., M.Pd.</h6>
                               <p>Projek - IPAS</p>
                           </div>
@@ -58,7 +58,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">R. Tini Gantini, S.H.</h6>
                               <p>PPKn / Pendidikan Pancasila</p>
                           </div>
@@ -67,7 +67,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">Lisna Windi Nurhuda, S.Pd.</h6>
                               <p>PJOK</p>
                           </div>
@@ -76,7 +76,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">Deni Maulana, S.T.</h6>
                               <p>KK - Basisdata & PKK</p>
                           </div>
@@ -92,7 +92,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">Nama Staf</h6>
                           </div>
                       </div>
@@ -100,7 +100,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">Nama Staf</h6>
                           </div>
                       </div>
@@ -108,7 +108,7 @@
                   <div class="col-md-4">
                       <div class="card card-data bg-light rounded-4 shadow">
                           <div class="card-body p-0 mb-3">
-                              <img src="~/assets/img/logo.png" alt="img" class="card-img-top p-2 rounded-4">
+                              <img src="~/assets/logosmk4.png" alt="img" class="card-img-top p-2 rounded-4">
                               <h6 class="fw-semibold mt-3">Nama Staf</h6>
                           </div>
                       </div>

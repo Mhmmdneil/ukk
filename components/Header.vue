@@ -1,7 +1,7 @@
 <template>
   <div class="container navbar navbar-expand-lg bg-light">
       <div class="container shadow ps-5">
-          <img class="image" src="/assets/img/logo.png" alt="">
+          <img class="image" src="/assets/logosmk4.png" alt="">
           <h5 class="">SMKN 4 Tasikmalaya</h5>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -16,11 +16,10 @@
                           PROFIL
                       </a>
                       <ul class="dropdown-menu">
-                          <li><nuxt-link to="/Profil/Identitas" class="dropdown-item">Identitas Sekolah</nuxt-link></li>
-                          <li><nuxt-link to="/Profil/Sejarah" class="dropdown-item">Sejarah</nuxt-link></li>
-                          <li><nuxt-link to="/Profil/VisiMisi" class="dropdown-item">Visi & Misi</nuxt-link></li>
-                          <li><nuxt-link to="/Profil/Kepsek" class="dropdown-item">Kepala Sekolah</nuxt-link></li>
-                          <li><nuxt-link to="/Profil/guruStaf" class="dropdown-item">Guru & Staf</nuxt-link></li>
+                          <li><nuxt-link to="/identitas" class="dropdown-item">Identitas Sekolah</nuxt-link></li>
+                          <li><nuxt-link to="/visiMisi" class="dropdown-item">Visi & Misi</nuxt-link></li>
+                          <li><nuxt-link to="/kepsek" class="dropdown-item">Kepala Sekolah</nuxt-link></li>
+                          <li><nuxt-link to="/gurustaf" class="dropdown-item">Guru & Staf</nuxt-link></li>
                       </ul>
                   </li>
                   <li class="nav-item ">
