@@ -19,13 +19,11 @@
                           <li><nuxt-link to="/identitas" class="dropdown-item">Identitas Sekolah</nuxt-link></li>
                           <li><nuxt-link to="/visiMisi" class="dropdown-item">Visi & Misi</nuxt-link></li>
                           <li><nuxt-link to="/kepsek" class="dropdown-item">Kepala Sekolah</nuxt-link></li>
-                          <li><nuxt-link to="/gurustaf" class="dropdown-item">Guru & Staf</nuxt-link></li>
+                          <li><nuxt-link to="/guru" class="dropdown-item">Guru</nuxt-link></li>
+                          <li><nuxt-link to="/biodata" class="dropdown-item">biodata</nuxt-link></li>
                       </ul>
                   </li>
                   <li class="nav-item ">
-                      <nuxt-link to="/Prodi" class="nav-link active" aria-current="page" href="#">
-                          PRODI
-                      </nuxt-link>
                       <!-- <ul class="dropdown-menu">
                           <li><a class="dropdown-item" href="#">Teknik Sepeda Motor</a></li>
                           <li><a class="dropdown-item" href="#">Teknik Jaringan Komputer</a></li>
@@ -39,16 +37,11 @@
                           KESISWAAN
                       </a>
                       <ul class="dropdown-menu">
-                          <li><nuxt-link to="/Kesiswaan/organisasi" class="dropdown-item" href="#">Organisasi</nuxt-link></li>
-                          <li><nuxt-link to="/Kesiswaan/ekskul" class="dropdown-item" href="#">Ekstrakurikuler</nuxt-link></li>
+                          <li><nuxt-link to="/kesiswaan/eskul" class="dropdown-item" >ekstrakurikuler</nuxt-link></li>
                       </ul>
-                  </li>
-                  <li class="nav-item">
-                          <nuxt-link to="/Sapras" class="nav-link active" aria-current="page" href="#">SAPRAS</nuxt-link>
-                          
-                  </li>
-                  <li class="nav-item">
-                      <nuxt-link to="/Artikel" class="nav-link active" aria-current="page" href="#">BERITA</nuxt-link>
+                      <ul class="dropdown-menu">
+                          <li><nuxt-link to="/kesiswaan/diri" class="dropdown-item" >biodata</nuxt-link></li>
+                      </ul>
                   </li>
               </ul>
           </div>

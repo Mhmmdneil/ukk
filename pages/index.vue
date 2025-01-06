@@ -1,14 +1,7 @@
 <template>
   <div class="card text-bg-dark">
-    <img src="assets/pembuka.jpg" class="card-img" alt="...">
+    <img src="assets/lapang.jpg" class="card-img" alt="...">
     <div class="card-img-overlay">
-      <h1 class="card-title" ><img src="..assets/img/logosmk4.png" alt="logo" width="150px" height="150px"><p></p>>informasi
-        Mengenai Smkn 4 Tasikmalaya</h1>
-        <p class="berita">berita</p>
-        <p class="berita">daftar guru</p>
-        <Nuxt-Link to="./bacaselengkapnya" class="nav-link activate" aria-current="page" style="color:aquamarine;">
-          <button class="baca rounded-2"><h6 style="color: blue;">baca selengkapnya</h6></button>
-        </Nuxt-Link>
     </div>
   </div>
 </template>
