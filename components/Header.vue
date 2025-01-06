@@ -21,6 +21,7 @@
                           <li><nuxt-link to="/kepsek" class="dropdown-item">Kepala Sekolah</nuxt-link></li>
                           <li><nuxt-link to="/guru" class="dropdown-item">Guru</nuxt-link></li>
                           <li><nuxt-link to="/biodata" class="dropdown-item">biodata</nuxt-link></li>
+                          <li><nuxt-link to="/galeri" class="dropdown-item">galeri</nuxt-link></li>
                       </ul>
                   </li>
                   <li class="nav-item ">
